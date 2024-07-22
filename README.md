@@ -1,5 +1,5 @@
 ### 🧬 Data driven carbon unit 🧬 
-Passionate about AI and natural language processing (NLP), focusing on innovating and adding value at the intersection of technology and business.
+Passionate about AI and natural language processing and understanding (NLP/NLU), focusing on innovating and adding value at the intersection of technology and business.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetm4st3r&custom_title=Stats&rank_icon=percentile&hide=prs&show=reviews,discussions_started&show_icons=true&count_private=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
