@@ -4,7 +4,6 @@ Passionate about AI and natural language processing and understanding (NLP/NLU),
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=puppetm4st3r&custom_title=Stats&rank_icon=percentile&hide=prs&show=reviews,discussions_started&show_icons=true&count_private=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppetm4st3r&layout=compact&theme=ocean_dark&hide=jupyter%20notebook)
-![](https://komarev.com/ghpvc/?username=puppetm4st3r)
 
 ![python](https://img.shields.io/badge/-Python-555555?style=flat&logo=Python&logoColor=93fc00)
 ![spark](https://img.shields.io/badge/-Spark-555555?style=flat&logo=ApacheSpark&logoColor=93fc00)
@@ -12,3 +11,4 @@ Passionate about AI and natural language processing and understanding (NLP/NLU),
 ![dotnet](https://img.shields.io/badge/-DotNet-555555?style=flat&logo=dotnet&logoColor=93fc00)
 ![docker](https://img.shields.io/badge/-Docker-555555?style=flat&logo=docker&logoColor=93fc00)
 ![rapids](https://img.shields.io/badge/-Rapids-555555?style=flat&logo=nvidia&logoColor=93fc00)
+![](https://komarev.com/ghpvc/?username=puppetm4st3r)
